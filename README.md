@@ -108,7 +108,7 @@ _AI Developer/Map Developer_
 
 ### 📊 Stats
 
-![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ecsampson&show_icons=true&theme=synthwave)
+![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ecsampso&show_icons=true&theme=synthwave)
 
 #
 
